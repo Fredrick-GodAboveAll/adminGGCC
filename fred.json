@@ -1,0 +1,254 @@
+[
+    {
+        "Id": "40Pst8",
+        "Name": "Pastor Dan",
+        "Contributions": [
+            { "Month": "nov", "Amount": 400, "Pledge": 0, "Mode": "m" },
+            { "Month": "dec", "Amount": 1000, "Pledge": 0, "Mode": "m" },
+            { "Month": "jan", "Amount": 1000, "Pledge": 0, "Mode": "m" },
+            { "Month": "feb", "Amount": 500, "Pledge": 0, "Mode": "m" },
+            { "Month": "mar", "Amount": 1000, "Pledge": 0, "Mode": "m" },
+            { "Month": "apr", "Amount": 1000, "Pledge": 0, "Mode": "m"  },
+            { "Month": "may", "Amount": 1000, "Pledge": 0, "Mode": "m" },
+            { "Month": "jun", "Amount": 1000, "Pledge": 0, "Mode": "m" },
+            { "Month": "july", "Amount": 0, "Pledge": 1000, "Mode": "m" },
+            { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "-" },
+            { "Month": "sep", "Amount": 0, "Pledge": 500, "Mode": "m" },
+            { "Month": "oct", "Amount": 0, "Pledge": 500, "Mode": "m" },
+            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+        ]
+    },
+
+    {
+        "Id": "90562",
+        "Name": "Chairman",
+        "Contributions": [
+            {"Month": "nov", "Amount": 1000, "Pledge": 0, "Mode": "m" },
+            {"Month": "dec", "Amount": 1000, "Pledge": 0, "Mode": "m" },
+            {"Month": "jan", "Amount": 1000, "Pledge": 0, "Mode": "m" },
+            {"Month": "feb", "Amount": 1500, "Pledge": 0, "Mode": "m" },
+            { "Month": "mar", "Amount": 1000, "Pledge": 0, "Mode": "m" },
+            { "Month": "apr", "Amount": 1000, "Pledge": 0, "Mode": "m" },
+            { "Month": "may", "Amount": 1000, "Pledge": 0, "Mode": "m" },
+            { "Month": "jun", "Amount": 1000, "Pledge": 0, "Mode": "m" },
+            { "Month": "july", "Amount": 1000, "Pledge": 0, "Mode": "m" },
+            { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "sep", "Amount": 1000, "Pledge": 0, "Mode": "m" },
+            { "Month": "oct", "Amount": 1000, "Pledge": 0, "Mode": "m" },
+            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+        ]
+    },
+
+    {
+        "Id": "53Br9",
+        "Name": "Benard",
+        "Contributions": [
+            { "Month": "nov", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "dec", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "jan", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "feb", "Amount": 200, "Pledge": 0, "Mode": "m" },
+            { "Month": "mar", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "apr", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "may", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "jun", "Amount": 50, "Pledge": 0, "Mode": "m" },
+            { "Month": "july", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "sep", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "oct", "Amount": 0, "Pledge": 100, "Mode": "m" },
+            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+        ]
+    },
+
+    {
+        "Id": "73M20",
+        "Name": "Moses",
+        "Contributions": [
+            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "dec", "Amount": 500, "Pledge": 0, "Mode": "m" },
+            { "Month": "jan", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "feb", "Amount": 500, "Pledge": 0, "Mode": "m" },
+            { "Month": "mar", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "apr", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "may", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "jun", "Amount": 300, "Pledge": 0, "Mode": "m" },
+            { "Month": "july", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "aug", "Amount": 500, "Pledge": 0, "Mode": "m" },
+            { "Month": "sep", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "oct", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+        ]
+    },
+    {
+        "Id": "45P869",
+        "Name": "Paul",
+        "Contributions": [
+            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "dec", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "jan", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "feb", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "mar", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "apr", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "may", "Amount": 500, "Pledge": 0, "Mode": "m" },
+            { "Month": "jun", "Amount": 500, "Pledge": 0, "Mode": "m" },
+            { "Month": "july", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "sep", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "oct", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+        ]
+    },
+    {
+        "Id": "97S7M",
+        "Name": "Steve",
+        "Contributions": [
+            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "dec", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "jan", "Amount": 500, "Pledge": 0, "Mode": "m" },
+            { "Month": "feb", "Amount": 500, "Pledge": 0, "Mode": "m" },
+            { "Month": "mar", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "apr", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "may", "Amount": 500, "Pledge": 0, "Mode": "m" },
+            { "Month": "jun", "Amount": 500, "Pledge": 0, "Mode": "m" },
+            { "Month": "july", "Amount": 500, "Pledge": 0, "Mode": "m" },
+            { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "sep", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "oct", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+        ]
+    },
+    {
+        "Id": "33E1",
+        "Name": "Emmanuel",
+        "Contributions": [
+            { "Month": "nov", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "dec", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "jan", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "feb", "Amount": 0, "Pledge": 100, "Mode": "m" },
+            { "Month": "mar", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "apr", "Amount": 0, "Pledge": 200, "Mode": "m" },
+            { "Month": "may", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "jun", "Amount": 0, "Pledge": 200, "Mode": "m" },
+            { "Month": "july", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "sep", "Amount": 0, "Pledge": 200, "Mode": "m" },
+            { "Month": "oct", "Amount": 0, "Pledge": 200, "Mode": "m" },
+            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+        ]
+    },
+    {
+        "Id": 8,
+        "Name": "Munyao",
+        "Contributions": [
+            { "Month": "nov", "Amount": 0, "Pledge": 100, "Mode": "m" },
+            { "Month": "dec", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "jan", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "feb", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "mar", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "apr", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "may", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "jun", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "july", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "sep", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "oct", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+        ]
+    },
+    {
+        "Id": "0145A",
+        "Name": "Daud",
+        "Contributions": [
+            { "Month": "nov", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "dec", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "jan", "Amount": 200, "Pledge": 0, "Mode": "m" },
+            { "Month": "feb", "Amount": 200, "Pledge": 0, "Mode": "m" },
+            { "Month": "mar", "Amount": 200, "Pledge": 0, "Mode": "m" },
+            { "Month": "apr", "Amount": 200, "Pledge": 0, "Mode": "m" },
+            { "Month": "may", "Amount": 200, "Pledge": 0, "Mode": "m" },
+            { "Month": "jun", "Amount": 200, "Pledge": 0, "Mode": "m" },
+            { "Month": "july", "Amount": 0, "Pledge": 200, "Mode": "m" },
+            { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "sep", "Amount": 200, "Pledge": 0, "Mode": "m" },
+            { "Month": "oct", "Amount": 0, "Pledge": 200, "Mode": "m" },
+            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+        ]
+    },
+    {
+        "Id": 10,
+        "Name": "Boniface",
+        "Contributions": [
+            { "Month": "nov", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "dec", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "jan", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "feb", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "mar", "Amount": 0, "Pledge": 100, "Mode": "m" },
+            { "Month": "apr", "Amount": 0, "Pledge": 100, "Mode": "m" },
+            { "Month": "may", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "jun", "Amount": 0, "Pledge": 100, "Mode": "m" },
+            { "Month": "july", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "sep", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "oct", "Amount": 0, "Pledge": 100, "Mode": "m" },
+            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+        ]
+    },
+    {
+        "Id": 11,
+        "Name": "Daniel",
+        "Contributions": [
+            { "Month": "nov", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "dec", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "jan", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "feb", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "mar", "Amount": 0, "Pledge": 100, "Mode": "m" },
+            { "Month": "apr", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "may", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "jun", "Amount": 0, "Pledge": 100, "Mode": "m" },
+            { "Month": "july", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "sep", "Amount": 0, "Pledge": 200, "Mode": "m" },
+            { "Month": "oct", "Amount": 0, "Pledge": 200, "Mode": "m" },
+            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+        ]
+    },
+    {
+        "Id": "745b1",
+        "Name": "Benson",
+        "Contributions": [
+            { "Month": "nov", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "dec", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "jan", "Amount": 0, "Pledge": 100, "Mode": "m" },
+            { "Month": "feb", "Amount": 0, "Pledge": 200, "Mode": "m" },
+            { "Month": "mar", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "apr", "Amount": 0, "Pledge": 100, "Mode": "m" },
+            { "Month": "may", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "jun", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "july", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "sep", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "oct", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+        ]
+    },
+    {
+        "Id": "4198",
+        "Name": "Fredrick",
+        "Contributions": [
+            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "dec", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "jan", "Amount": 100, "Pledge": 0, "Mode": "m" },
+            { "Month": "feb", "Amount": 50, "Pledge": 0, "Mode": "m" },
+            { "Month": "mar", "Amount": 0, "Pledge": 50, "Mode": "m" },
+            { "Month": "apr", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "may", "Amount": 50, "Pledge": 0, "Mode": "m" },
+            { "Month": "jun", "Amount": 0, "Pledge": 50, "Mode": "m" },
+            { "Month": "july", "Amount": 0, "Pledge": 50, "Mode": "m" },
+            { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "sep", "Amount": 0, "Pledge": 50, "Mode": "m" },
+            { "Month": "oct", "Amount": 0, "Pledge": 0, "Mode": "m" },
+            { "Month": "nov", "Amount": 0, "Pledge": 50, "Mode": "m" }
+        ]
+    }
+
+]
+
