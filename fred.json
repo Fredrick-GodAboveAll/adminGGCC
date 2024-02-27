@@ -15,7 +15,7 @@
             { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "-" },
             { "Month": "sep", "Amount": 0, "Pledge": 500, "Mode": "m" },
             { "Month": "oct", "Amount": 0, "Pledge": 500, "Mode": "m" },
-            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+            { "Month": "Nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
         ]
     },
 
@@ -35,7 +35,7 @@
             { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "sep", "Amount": 1000, "Pledge": 0, "Mode": "m" },
             { "Month": "oct", "Amount": 1000, "Pledge": 0, "Mode": "m" },
-            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+            { "Month": "Nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
         ]
     },
 
@@ -55,7 +55,7 @@
             { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "sep", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "oct", "Amount": 0, "Pledge": 100, "Mode": "m" },
-            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+            { "Month": "Nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
         ]
     },
 
@@ -75,7 +75,7 @@
             { "Month": "aug", "Amount": 500, "Pledge": 0, "Mode": "m" },
             { "Month": "sep", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "oct", "Amount": 0, "Pledge": 0, "Mode": "m" },
-            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+            { "Month": "Nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
         ]
     },
     {
@@ -94,7 +94,7 @@
             { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "sep", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "oct", "Amount": 0, "Pledge": 0, "Mode": "m" },
-            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+            { "Month": "Nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
         ]
     },
     {
@@ -113,7 +113,7 @@
             { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "sep", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "oct", "Amount": 0, "Pledge": 0, "Mode": "m" },
-            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+            { "Month": "Nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
         ]
     },
     {
@@ -132,7 +132,7 @@
             { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "sep", "Amount": 0, "Pledge": 200, "Mode": "m" },
             { "Month": "oct", "Amount": 0, "Pledge": 200, "Mode": "m" },
-            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+            { "Month": "Nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
         ]
     },
     {
@@ -151,7 +151,7 @@
             { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "sep", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "oct", "Amount": 0, "Pledge": 0, "Mode": "m" },
-            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+            { "Month": "Nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
         ]
     },
     {
@@ -170,7 +170,7 @@
             { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "sep", "Amount": 200, "Pledge": 0, "Mode": "m" },
             { "Month": "oct", "Amount": 0, "Pledge": 200, "Mode": "m" },
-            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+            { "Month": "Nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
         ]
     },
     {
@@ -189,7 +189,7 @@
             { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "sep", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "oct", "Amount": 0, "Pledge": 100, "Mode": "m" },
-            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+            { "Month": "Nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
         ]
     },
     {
@@ -208,7 +208,7 @@
             { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "sep", "Amount": 0, "Pledge": 200, "Mode": "m" },
             { "Month": "oct", "Amount": 0, "Pledge": 200, "Mode": "m" },
-            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+            { "Month": "Nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
         ]
     },
     {
@@ -227,7 +227,7 @@
             { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "sep", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "oct", "Amount": 0, "Pledge": 0, "Mode": "m" },
-            { "Month": "nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
+            { "Month": "Nov", "Amount": 0, "Pledge": 0, "Mode": "-" }
         ]
     },
     {
@@ -246,7 +246,7 @@
             { "Month": "aug", "Amount": 0, "Pledge": 0, "Mode": "m" },
             { "Month": "sep", "Amount": 0, "Pledge": 50, "Mode": "m" },
             { "Month": "oct", "Amount": 0, "Pledge": 0, "Mode": "m" },
-            { "Month": "nov", "Amount": 0, "Pledge": 50, "Mode": "m" }
+            { "Month": "Nov", "Amount": 0, "Pledge": 50, "Mode": "m" }
         ]
     }
 

@@ -4,23 +4,79 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+
+    <!-- General CSS Files -->
+    <link rel="stylesheet" href="assets/css/app.min.css">
+    <!-- Template CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/components.css">
+    <!-- Custom style CSS -->
+    <link rel="stylesheet" href="tt.css">
+
 </head>
 <body>
-    
-    <div class="chartCard">
 
-        <div class="chartBox">
+    <div class="main-content">
+        <section class="section">
+            <div class="row">
+                <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h4>Assign Task Table</h4>
+                        <div class="card-header-form">
+                            <form>
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Search">
+                                <div class="input-group-btn">
+                                <button class="btn btn-primary"><i class="fas fa-search"></i></button>
+                                </div>
+                            </div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="card-body p-0">
+                        <div class="table-responsive">
+                            <table class="table table-striped">
+                                <tr>
+                                    <th class="text-center">
+                                        <div class="custom-checkbox custom-checkbox-table custom-control">
+                                            <input type="checkbox" data-checkboxes="mygroup" data-checkbox-role="dad"
+                                            class="custom-control-input" id="checkbox-all">
+                                            <label for="checkbox-all" class="custom-control-label">&nbsp;</label>
+                                        </div>
+                                    </th>
+                                    <th>Month</th>
+                                    <th>Members</th>
+                                    <th>Rate</th>
+                                    <th>Amount</th>
+                                    <th>Pledges</th>
+                                    <th>Expenses</th>
+                                    <th>Actions</th>
+                                </tr>
+                                
+                                <tbody id="tii">
 
-            <canvas id="myChart"></canvas>
-            <button id="pledgesButton" class="btn-pledge">Your Pledges</button>
-            <!-- <button id="ALLtotal">ALL OF IT</button> -->
-
-        </div>
-
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </section>
     </div>
 
-    <script src="work.js"></script>
-    <!-- chart js  -->
-    <script src="assets/distChartjs/chart.umd.js"></script>
+        <!-- General JS Scripts -->
+    <script src="assets/js/app.min.js"></script>
+    
+    <!-- JS Libraies -->
+    <!-- <script src="assets/bundles/apexcharts/apexcharts.min.js"></script> -->
+
+    <!-- Page Specific JS File -->
+    <script src="assets/js/page/index.js"></script>
+    <!-- Template JS File -->
+    <script src="assets/js/scripts.js"></script>
+
+    <script src="tt.js"></script>
 </body>
 </html>
