@@ -4,3 +4,11 @@
 /*# sourceMappingURL=custom.css.map */
 
 
+.table-responsive {
+    height: 400px;
+    /* background-color: red; */
+}
+
+/* .nice {
+    position: sticky;
+} */
